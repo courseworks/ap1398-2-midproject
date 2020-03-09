@@ -20,7 +20,7 @@ Chandler is a 6th semester university student and have plans to get a job at a g
 
 <img src="staff/f2.png" width="300" class="center" />
 
-The game is made up of two parts, Graphics and Algorithms, in which the graphic company demands the use of Qt and C ++ code, and for the Search Algorithm, the DLS algorithm (which is an uninformed search algorithm) in Artificial Intelligence and Algorithms. Note that this project must be done individually (Not in teams). After the deadline, the top 3 projects would be announced!
+The game is made up of two parts, Graphics and Algorithms, in which the graphic company demands the use of C++ and Qt, and for the Search Algorithm, the DLS algorithm (which is an uninformed search algorithm) in Artificial Intelligence and Algorithms. Note that this project must be done individually (Not in teams). After the deadline, the top 3 projects would be announced!
 
 #  How To Play?
 The user, with the help of the graphical environment of the company (which will be made by Chandler as well), begins to specify the color of each part and section of surface, and the program, after execution, announces how to solve the Rubik and writes the directions needed to rotate in each sequence. It should also animate the solution in a beautiful way!
@@ -73,7 +73,7 @@ Once you get the answer, your program should display number of expanded nodes an
 Study Bidirectional Search method and solve this question with it (15 extra points)
 
 ## Note
-For further reading and to resolve questions and doubts, don't miss *Stuart Russel's Artificial Intelligence, A Modern Approach* book chapter 3 (Solving Problems by Searching Chapter).
+For further reading and to resolve questions and doubts, don't miss **Stuart Russel's Artificial Intelligence, A Modern Approach** book chapter 3 (Solving Problems by Searching Chapter).
 
 Qt Graphical part should contain:
 
@@ -89,4 +89,4 @@ Your GUI must also be implemented in the way that it has a box contatining the c
 
 The more beautiful and exciting your output and GUI, the better your grade!
 
-##  HELP Chandler get the job to have a pleasant life 
+##  HELP Chandler get the job to have a pleasant life ;-)
